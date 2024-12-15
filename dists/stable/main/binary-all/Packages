@@ -1,0 +1,44 @@
+Package: ca-certificates-java
+Architecture: all
+Installed-Size: 216
+Maintainer: @termux
+Version: 1:2024.09.24
+Homepage: https://curl.se/docs/caextract.html
+Depends: ca-certificates (= 1:2024.09.24)
+Description: Common CA certificates (java keystore format)
+Filename: dists/stable/main/binary-all/ca-certificates-java_1:2024.09.24_all.deb
+Size: 117716
+MD5Sum: 6cbc3e0087cda28c103d1ee0bee1e972
+SHA1: 5f6885bb3957a269da6e0acb34a82334ad723b5b
+SHA256: cc7366dc22d0047b3801c6c40dd8a4025011525f143f9f2d2bf910d48e4cd773
+SHA512: e3eeda4cec0d3d86af63cc03637ef53441978a7af6c248921f7ffde47f5761a22976286174a657b476596d94d42d01b4c25b48e98e33512ef355f98fc276a1e6
+
+Package: ca-certificates
+Architecture: all
+Installed-Size: 276
+Maintainer: @termux
+Version: 1:2024.09.24
+Homepage: https://curl.se/docs/caextract.html
+Description: Common CA certificates
+Filename: dists/stable/main/binary-all/ca-certificates_1:2024.09.24_all.deb
+Size: 128648
+MD5Sum: ce2151df38969a0eca0b161ec67d1169
+SHA1: 077942919f9c1adea9485968cbc535c55e7b2a12
+SHA256: f4cfac66e51656f1ba24bb2b342bbf07a76a48d7799e5b3ae5dd01801c5fa722
+SHA512: ca6d5a45d304ddf61aa10c4428c3230231f0df79d8bbc61ee374cc7e6b3961a8df79d24f6a2eff7551b22c664cddd9613914797c8b975ae35f56b3750429da5c
+
+Package: termux-am
+Architecture: all
+Installed-Size: 620
+Maintainer: Michal Bednarski @michalbednarski
+Version: 0.8.0-1
+Homepage: https://github.com/termux/TermuxAm
+Conflicts: termux-tools (<< 0.51)
+Description: Android Oreo-compatible am command reimplementation
+Filename: dists/stable/main/binary-all/termux-am_0.8.0-1_all.deb
+Size: 577252
+MD5Sum: bd3235985667c9422301469f5c056e7c
+SHA1: 1847f5902750700d3c5e24aeec0afb9f1d395875
+SHA256: d2913ec14322931d6865fec86d45f0fcd69f8563d11f81d2882ff33bc96014a5
+SHA512: 4bbe2fbebd2d7f87f4be0712b3d56c38736fcbf8faa1c51c5619c84298915a028992ac61c45641a9f2ff7f403d5778c6a570f3a7bd67a8caf8aa8972e1ba991e
+
